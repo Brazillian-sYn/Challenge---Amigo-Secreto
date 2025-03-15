@@ -22,4 +22,4 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 Este projeto está sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](https://github.com/Brazillian-sYn/Challenge---Amigo-Secreto/blob/main/LICENSE).
 
 ## Autor
-Nome do Autor - [SeuPerfil](https://github.com/Brazillian-sYn)
+Nome do Autor - [Brazillian-sYn](https://github.com/Brazillian-sYn)
