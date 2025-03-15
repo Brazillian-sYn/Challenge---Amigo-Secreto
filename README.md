@@ -3,6 +3,8 @@
 ## Descrição
 O "Amigo Secreto" é um aplicativo web desenvolvido para facilitar o sorteio de amigos secretos, muito comum em confraternizações de fim de ano, festas de escritório, entre outros. Este projeto utiliza HTML, CSS e JavaScript para criar uma interface amigável onde usuários podem adicionar os nomes dos participantes e realizar o sorteio de forma automática.
 
+Esse projeto foi desenvolvido pelo aluno Rafael Yamasaki Traverso que está no Grupo Oracle ONE - Grupo FN 8
+
 ## Funcionalidades
 - **Adicionar Participantes**: Os usuários podem adicionar os nomes dos participantes um a um através de um campo de entrada.
 - **Sorteio**: Após adicionar todos os participantes, o usuário pode sortear quem será o amigo secreto de quem. O sistema garante que ninguém tire o próprio nome.
